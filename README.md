@@ -1,38 +1,33 @@
-# Skills-Lab |  VR Nursing Simulator
+# Projet : Hôpital Virtuel - Simulation Médicale en Réalité Virtuelle
 
-A VR training simulation for students with a major in nursing.<br>
-The students will practice working with a complicated VANAS shelf where they can get the right dose of medicine for the patient. <br>
-The main objective is to treat the patient the right way.
-This VR project will be used in a HTC Vive headset.
+## Description
+Ce projet vise à développer un hôpital virtuel pour la formation médicale des étudiants. L'hôpital virtuel sera une plateforme interactive permettant aux étudiants en médecine de pratiquer divers scénarios médicaux dans un environnement virtuel réaliste et sécurisé.
 
-## Preparation
-Using:
-* Cinema4D and Blender
-* Unity3D
-* Trello for Scrum (https://trello.com/skillslab2)
-* Github with command line
-* HTC Vive
+## Objectifs
+- Créer une simulation immersive d'un hôpital virtuel.
+- Offrir une expérience d'apprentissage réaliste et interactive pour les étudiants en médecine.
+- Permettre aux étudiants de pratiquer des diagnostics, des traitements et des procédures médicales dans un cadre virtuel.
+- Utiliser des technologies de pointe pour assurer une expérience utilisateur optimale.
 
-## Most important objectives
-* Choose between different scenarios.(adult man, elder man, young adult or pregnant woman)
-* Retrieve the correct medicine from the VANAS shelf. 
-* Check if the player has the right patient.
-* Give the correct medicine to the patient.
-* Choose the correct size of needle and syringe. <br>
-(needle: 18G,21G,23G,25G,27G) <br>
-(syringe: 1.5ml, 2.5ml, 5ml, 10ml, 20ml, 50ml)
-* Inject the medicine in the correct body location.
-* Use the correct method of injection. (SC, IV or IM)
-* Proper use and disposal of needles and syringes.
-* Get more information about the medicine by going to a website that acts like a database for medicines.
+## Fonctionnalités
+- Choix de différents scénarios médicaux (adulte, enfant, personne âgée, etc.).
+- Manipulation sécurisée des médicaments et des équipements médicaux.
+- Administration appropriée des médicaments selon les protocoles établis.
+- Simulation de différentes méthodes d'injection (sous-cutanée, intraveineuse, intramusculaire).
+- Gestion des déchets médicaux et des équipements après utilisation.
+- Intégration de retours d'expérience pour améliorer continuellement la simulation.
 
-Gameplay video: https://www.youtube.com/watch?v=oVm8dRNzHU8
+## Technologies utilisées
+- Unity3D : moteur de jeu utilisé pour développer la simulation en réalité virtuelle.
+- Cinema4D et Blender : logiciels de modélisation 3D pour créer des environnements et des équipements médicaux réalistes.
+- GitHub : plateforme de gestion de versions pour faciliter le suivi des modifications du code source.
 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=oVm8dRNzHU8" target="_blank">
-<img src="https://user-images.githubusercontent.com/22680257/35644366-0ea0f498-06c9-11e8-98e0-35f56bcf4a46.PNG" 
-alt="Screenshot from the gameplay video of the nursing simulator" width="500" height="300" border="10"></a>
-<br>
-<br>
-<br>
-By Stefan Bauwens & Cindy Ho
+## Instructions d'installation et d'utilisation
+1. Cloner le dépôt GitHub sur votre machine locale.
+2. Ouvrir le projet Unity3D dans l'IDE Unity.
+3. Importer les modèles 3D créés avec Cinema4D et Blender.
+4. Compiler et exécuter la simulation sur votre ordinateur.
+5. Suivre les instructions fournies dans la simulation pour naviguer dans l'hôpital virtuel et interagir avec les différents éléments.
 
+## Auteurs
+Ce projet est développé par le groupe 6 DIC3 Informatique.
