@@ -1,5 +1,5 @@
 # Projet : Hôpital Virtuel - Simulation Médicale en Réalité Virtuelle
-
+# GROUPE 6 - DIC3 Informatique
 ## Description
 Ce projet vise à développer un hôpital virtuel pour la formation médicale des étudiants. L'hôpital virtuel sera une plateforme interactive permettant aux étudiants en médecine de pratiquer divers scénarios médicaux dans un environnement virtuel réaliste et sécurisé.
 
